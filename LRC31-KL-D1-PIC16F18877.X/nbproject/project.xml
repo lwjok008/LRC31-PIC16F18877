@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>LRC31-KL-D1-PIC16F18877-LRC113-1</name>
+            <name>LRC31-KL-A1-PIC16F18877</name>
+            <name>LRC31-AL-A1-PIC16F18877</name>
+            <name>LRC31-KE-A1-PIC16F18877</name>
+            <name>LRC31-KE-A1-PIC16F1939</name>
+            <name>LRC50-01-A1-PIC16F18877-2A</name>
+            <name>LRC50-01-A1-PIC16F18877-1_3A-ADC-QUIKE</name>
+            <name>LRC50-01-A1-PIC16F18877-3A-ADC-QUIKE</name>
+            <name>LRC50-01-C1-PIC16F18877-6A-ADC-QUIKE</name>
+            <creation-uuid>b9c6d6d6-293a-4d57-8032-ab5321805097</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>GB2312</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>mcc_generated_files</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>就地分合闸指令同时存在</word>
+            <word>就地操作信号</word>
+            <word>异常状态</word>
+            <word>远方分合闸指令同时存在</word>
+            <word>远方操作信号</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
